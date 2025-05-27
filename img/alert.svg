@@ -1,0 +1,1 @@
+number_quantity: parseInt(quantity.value, 10),
